@@ -31,7 +31,6 @@ var isPossibleToSplit = function(nums) {
     }
     
     if(uniqueCount < halfLength) return false;
-    return true;
     
-    
+    return true;    
 };
